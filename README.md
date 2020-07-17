@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection-Using-ML-With-Python
+# Credit-Card-Fraud-Detection-Using-Machine Learning-With-Python
 ## Data Source: https://www.kaggle.com/mlg-ulb/creditcardfraud
 It is a CSV file, contains 31 features, the last feature is used to classify the transaction whether it is a fraud or not. 
 ### Information about data set
