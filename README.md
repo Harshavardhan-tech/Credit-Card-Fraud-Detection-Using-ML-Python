@@ -7,7 +7,7 @@ It is a CSV file, contains 31 features, the last feature is used to classify the
 * Given the class imbalance ratio, we recommend measuring the accuracy using the Area Under the Precision-Recall Curve (AUPRC). Confusion matrix accuracy is not meaningful for unbalanced classification.
 * The dataset has been collected and analysed during a research collaboration of Worldline and the Machine Learning Group (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles) on big data mining and fraud detection.
 ## Flow of Project
-We have done Exploratory Data Analysis on full data then we have removed outliers using "LocalOutlierFactor", then finally we have used KNN technique to predict to train the data and to predict whether the transaction is Fraud or not. We have also applied T-SNE to visualize the Fraud and genuine transactions in 2-D.
+We have done Exploratory Data Analysis on full data then we have removed outliers using "LocalOutlierFactor", then finally we have used KNN technique to predict to train the data and to predict whether the transaction is Fraud or not. We have also applied Predictive Models to visualize the Fraud and genuine transactions in 2-D,Anomaly Detection, Predictive Models are  different techniques in Machine Learning we are shown.
 ## How to Run the Project
 In order to run the project just download the data from above mentioned source then run any file.
 ## Prerequisites
